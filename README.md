@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flask Docker Kubernetes Project
 
 This project demonstrates a simple Flask application
@@ -17,3 +18,6 @@ using Minikube.
 
 ## Output
 Application runs on port 5000 and shows a success message.
+=======
+# flask-docker-kubernetes
+>>>>>>> e28f43c3948a15e690c9cd6fc45d68a158ece212
